@@ -5,7 +5,9 @@
 
 Eu sou apaixonado por tecnologia 💻, jogos  🎮 e Raciocínio Lógico 🎲
 
-Aqui você pode conferir todos os meus projetos. Espero que goste e se precisar é só entrar em contado comigo pode acessar meu linkedin aqui ➡️ [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bragareinaldo/)]
+Aqui você pode conferir todos os meus projetos.
+
+Espero que goste, e se precisar, é só entrar em contado comigo aqui no meu linkedin ➡️ ![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bragareinaldo/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bragarr&hide=contribs,prs)
 
