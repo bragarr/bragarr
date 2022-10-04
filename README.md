@@ -9,6 +9,13 @@ Aqui você pode conferir todos os meus projetos.
 
 Espero que goste, e se precisar, é só entrar em contado comigo aqui no meu linkedin ➡️ [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bragareinaldo/)](https://www.linkedin.com/in/bragareinaldo/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bragarr&hide=contribs,prs)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bragarr&layout=compact)](https://github.com/bragarr/github-readme-stats)
+<div align="center">
+  <a href="https://github.com/bragarr">
+  
+  <div align = "center">
+  
+  
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bragarr&theme=dark)](https://git.io/streak-stats)
+  
+</div>
+</div>
