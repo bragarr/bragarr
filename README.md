@@ -7,7 +7,7 @@ Eu sou apaixonado por tecnologia 💻, jogos  🎮 e Raciocínio Lógico 🎲
 
 Aqui você pode conferir todos os meus projetos.
 
-Espero que goste, e se precisar, é só entrar em contado comigo aqui no meu linkedin ➡️ [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bragareinaldo/)](https://www.linkedin.com/in/bragareinaldo/)
+Para entrar em contado comigo, confira o meu perfil no linkedin ➡️ [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bragareinaldo/)](https://www.linkedin.com/in/bragareinaldo/)
 
 <div align="center">
   <a href="https://github.com/bragarr">
