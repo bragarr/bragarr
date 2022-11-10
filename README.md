@@ -3,7 +3,7 @@
 
 👋 Hello, Eu sou Reinaldo Braga, Desenvolvedor Front End
 
-Eu sou apaixonado por tecnologia 💻, jogos  🎮 e Raciocínio Lógico 🎲
+Apaixonado por tecnologia 💻, jogos  🎮 e Raciocínio Lógico 🎲
 
 Aqui você pode conferir todos os meus projetos.
 
