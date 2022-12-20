@@ -1,15 +1,30 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/bragarr)](https://github.com/bragarr)
 
+[PT-BR]
 
-👋 Hello, Eu sou Reinaldo Braga, Desenvolvedor Front End
+👋 Olá, Eu sou Reinaldo Braga, Desenvolvedor Web!
 
-Apaixonado por tecnologia 💻, jogos  🎮 e Raciocínio Lógico 🎲
+   Aqui você pode conferir todos os meus projetos.
+   
+   Para acessar o meu perfil profissional do LinkedIn: https://www.linkedin.com/in/bragareinaldo/
 
-Aqui você pode conferir todos os meus projetos.
+   Apaixonado por tecnologia 💻, jogos  🎮 e Raciocínio Lógico 🎲
+   
+   Email para contato: rodrigues.reinaldobraga@gmail.com
+   
+   
+[EN]
 
-Para acessar o meu perfil profissional do Linkedin: https://www.linkedin.com/in/bragareinaldo/
+👋 Hello, I'm Reinaldo Braga, Web Developer!
 
-Email para contato: rodrigues.reinaldobraga@gmail.com
+   Here you can check it out all my projects.
+   
+   To see my profile on LinkedIn: https://www.linkedin.com/in/bragareinaldo/
+   
+   E-mail: rodrigues.reinaldobraga@gmail.com
+   
+   Love for Tech💻, games🎮 and Logics🎲!
+    
 
 <div align="center">
   <a href="https://github.com/bragarr">
