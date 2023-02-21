@@ -12,9 +12,7 @@ Love for Tech💻, games🎮 and Logics🎲!
 <div align="center">
   <a href="https://github.com/bragarr">
   
-  <div align = "center">
-  
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bragarr&theme=light)](https://git.io/streak-stats)
+  <div align = "left">
      
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bragarr&layout=compact)](https://github.com/bragarr/github-readme-stats)
 
