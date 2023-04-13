@@ -3,7 +3,7 @@
 Hello, 
 I'm Reinaldo Braga, Full Stack Developer! Here you can check it out all my projects.
 
-In my projects, I have already worked on different applications and data sets, including connections and creation of APIs to projects for search and registration.
+In my projects, I have already worked on different applications and data sets.
    
 My profile on LinkedIn: https://www.linkedin.com/in/bragareinaldo/ | E-mail: rodrigues.reinaldobraga@gmail.com
    
