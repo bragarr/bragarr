@@ -1,11 +1,9 @@
 <h1>Hello World!</h1>
 
-<p>That's the way we start coding, right? "Hello World" definetly, Well I'm Reinaldo Braga, creator and developer of things. many Things!</p>
+<p>Well I'm Reinaldo Braga, creator and developer of things!</p>
 <p>Of course you can check it out here my work and all my codes.</p>
 
 <img align="right" width="40" height="40" src="https://www.thinkoutoftheboxonline.com/assets/logos/Out_of_the_box2-header-311212e8540b535c2c7e529b0feaff707e77081bd620525465e3ed46668ebe31.png">
-
-But don't miss a chance to visit my personal website <a href="https://www.thinkoutoftheboxonline.com" target="_blank">Out of the Box</a>, the black cat right in the corner is watching and waiting you there!
 
 <p>My LinkedIn: https://www.linkedin.com/in/bragareinaldo/ | E-mail: rodrigues.reinaldobraga@gmail.com</p>
 <div align="center">
